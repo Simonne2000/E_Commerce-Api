@@ -1,0 +1,6 @@
+@WEP_API_HostAddress = http://localhost:5247
+
+GET {{WEP_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
